@@ -1,18 +1,13 @@
 {
-    "name": "bfg/object",
+    "name": "woub-chat/object",
     "description": "To work with objects and arrays",
-    "type": "bfg-app",
+    "type": "app",
     "keywords": ["laravel", "extension", "object"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "bfg"
-        }
-    ],
     "prefer-stable": true,
     "require": {
         "php": ">=8.0.0",
-        "bfg/doc": "*"
+        "woub-chat/doc": "*"
     },
     "require-dev": {},
     "autoload": {
